@@ -521,6 +521,7 @@ http://0x60n703.dongtaiyuming.net/live/29/index.m3u8
 http://0x60n703.dongtaiyuming.net/live/30/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/CCTV/CCTV4K.png" group-title="4K" tvg-language="" tvg-country="" ,CCTV-4K 超高清
 http://10.10.10.3:17088/rtp/239.21.2.152:5002
+rtp://239.21.2.152:5002
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/北京/北京卫视4K.png" group-title="4K",北京卫视-4K
 http://150.138.8.132/PLTV/88888888/224/3221227299/518924348.smil/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gh.llkk.cc/https://raw.githubusercontent.com/sumingyd/IPTV-Scanner-Editor-Pro/main/logo/广东/广东卫视4K.png" group-title="4K",广东卫视-4K
